@@ -19,6 +19,8 @@
   },
   "dependencies": {
     "@slack/bolt": "^4.2.1",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "fuse.js": "^7.1.0",
+    "googleapis": "^148.0.0"
   }
 }
