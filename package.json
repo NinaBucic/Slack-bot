@@ -1,0 +1,24 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "My first Slack bot",
+  "homepage": "https://github.com/NinaBucic/Slack-bot#readme",
+  "bugs": {
+    "url": "https://github.com/NinaBucic/Slack-bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NinaBucic/Slack-bot.git"
+  },
+  "license": "ISC",
+  "author": "NinaBucic",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@slack/bolt": "^4.2.1",
+    "dotenv": "^16.4.7"
+  }
+}
